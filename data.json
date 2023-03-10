@@ -1,0 +1,32 @@
+{
+	"destinations": [
+		{
+			"id": 1,
+			"image": "feta.jpg",
+			"destination": "Aalborg",
+			"title": "Kælderrum",
+			"subtitle": "lidt mug på væggen",
+			"text": "Lille, mørkt kælderrum, velegnet til seriemordere og incels.",
+			"facilities": [
+				"lokum i haven",
+				"shampoo",
+				"parkering mod overbetaling",
+				"low-fi"
+			]
+		},
+		{
+			"id": 2,
+			"image": "mozzarella.jpg",
+			"destination": "Klampenborg",
+			"title": "Lejlighed",
+			"subtitle": "Lækker lejlighed i midten af Dyrehaven",
+			"text": "Kun for folk med mange penge. Vi taler om dig, Maersk Machini Møller.",
+			"facilities": [
+				"gratis parkering",
+				"køkken",
+				"bad",
+				"butler"
+			]
+		}
+	]
+}
